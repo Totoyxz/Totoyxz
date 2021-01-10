@@ -1,1 +1,1 @@
-Visit US on https://twitter.com/td69_
+<a href="https://twitter.com/td69_">Follow us on Twitter </a>
