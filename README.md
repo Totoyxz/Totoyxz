@@ -3,13 +3,13 @@
 # TD69 Development
 
 ## &#x1f4c8; My GitHub Stats
-<!-- <NOTE: I will add space on top if I will enable this shit> <a href="https://github.com/totoydev69/Totoy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncknmex&hide=lua,js,html,css,php,sql,python,c#,c++&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<!-- <NOTE: I will add space on top if I will enable this shit> <a href="https://github.com/totoyzx/totoyzx">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=totoyzx&hide=lua,js,html,css,php,sql,python,c#,c++&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>-->
 
-<a href="https://github.com/Totoyxz/Totoyxz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Totoyxz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="_blank" />
+<a href="https://github.com/totoyzx/totoyzx">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=totoyzx&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="_blank" />
 </a>
 
 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=totoyxz&layout=demo)
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=totoyzx&layout=demo)
