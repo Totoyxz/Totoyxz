@@ -1,6 +1,6 @@
 ### Hi im Totoy
 
-![Hello 👋](https://cdn.discordapp.com/attachments/778488602849574943/813582646910779442/PicsArt_02-21-05.07.29.jpg style="width:500px;height:600px;")
+<img src="https://cdn.discordapp.com/attachments/778488602849574943/813582646910779442/PicsArt_02-21-05.07.29.jpg" alt="TD69" style="width:500px;height:600px;">
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
